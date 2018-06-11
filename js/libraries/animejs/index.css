@@ -1,0 +1,12 @@
+body {
+}
+
+.one-object {
+  margin: 20px;
+}
+
+.one-object .object {
+  background: green;
+  width: 40px;
+  height: 40px;
+}
