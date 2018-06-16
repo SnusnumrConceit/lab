@@ -1,0 +1,15 @@
+.drag-div {
+  width: 40px;
+  height: 50px;
+  background: #000;
+}
+
+.drop-div {
+  position: absolute;
+  top: 100px;
+  right: 400px;
+  width: 100px;
+  height: 200px;
+  background: gray;
+  border-radius: 5px;
+}
